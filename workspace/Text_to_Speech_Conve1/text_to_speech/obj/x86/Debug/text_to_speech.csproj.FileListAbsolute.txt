@@ -1,0 +1,25 @@
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\bin\Debug\text_to_speech.exe
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\bin\Debug\text_to_speech.pdb
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.exe
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.exe
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\bin\Debug\text_to_speech.exe
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\bin\Debug\text_to_speech.pdb
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.csprojResolveAssemblyReference.cache
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+c:\users\3521\documents\visual studio 2015\Projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.csproj.GenerateResource.Cache
+G:\Visual projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.exe
+G:\Visual projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+G:\Visual projects\Text to Speech Conve1\text_to_speech\bin\Debug\text_to_speech.exe
+G:\Visual projects\Text to Speech Conve1\text_to_speech\bin\Debug\text_to_speech.pdb
+G:\Visual projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.csprojResolveAssemblyReference.cache
+G:\Visual projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+G:\Visual projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+G:\Visual projects\Text to Speech Conve1\text_to_speech\obj\x86\Debug\text_to_speech.csproj.GenerateResource.Cache
